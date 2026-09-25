@@ -1,0 +1,9 @@
+{
+  "file": "Locale-Inspector-1.0.0.apk",
+  "size_bytes": 20957,
+  "sha256": "c266500b34033e684f17500a7adb76b539a24ae68a9e50ebd15e581569470865",
+  "min_sdk": 24,
+  "target_sdk": 34,
+  "native_libraries": false,
+  "runtime_device_test": "Not performed; no Android device or emulator available."
+}

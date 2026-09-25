@@ -1,0 +1,19 @@
+[
+  {
+    "package": "build-tools;35.0.0",
+    "url": "https://dl.google.com/android/repository/build-tools_r35_linux.zip",
+    "sha1": "2cfaa0bbb2336e9ec18ed3ecea84fa2e2af607bc",
+    "destination": "build-tools"
+  },
+  {
+    "package": "platforms;android-35",
+    "url": "https://dl.google.com/android/repository/platform-35_r02.zip",
+    "sha1": "0bb560a90a7a2cbd0dd8348224d518b638fe7949",
+    "destination": "platform"
+  },
+  {
+    "package": "ecj-3.33.0",
+    "url": "https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.33.0/ecj-3.33.0.jar",
+    "destination": "ecj.jar"
+  }
+]

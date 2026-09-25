@@ -1,0 +1,9 @@
+Verifying alignment of /workspace/scratch/00c2323a4649/locale-inspector/dist/Locale-Inspector-1.0.0.apk (4)...
+      49 AndroidManifest.xml (OK - compressed)
+     889 res/drawable/ic_launcher.xml (OK - compressed)
+    1412 resources.arsc (OK)
+    2297 classes.dex (OK - compressed)
+   10715 META-INF/LOCALE-I.SF (OK - compressed)
+   11120 META-INF/LOCALE-I.RSA (OK - compressed)
+   12659 META-INF/MANIFEST.MF (OK - compressed)
+Verification succesful

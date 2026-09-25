@@ -1,0 +1,24 @@
+{
+  "apk": "Locale-Inspector-1.0.0.apk",
+  "sha256": "c266500b34033e684f17500a7adb76b539a24ae68a9e50ebd15e581569470865",
+  "package": "tw.angus.localeinspector",
+  "launcher_activity": "tw.angus.localeinspector.MainActivity",
+  "permissions": [],
+  "classes": [
+    "Ltw/angus/localeinspector/LanguageUtil;",
+    "Ltw/angus/localeinspector/LocaleRule$Result;",
+    "Ltw/angus/localeinspector/LocaleRule;",
+    "Ltw/angus/localeinspector/MainActivity$1;",
+    "Ltw/angus/localeinspector/MainActivity$2;",
+    "Ltw/angus/localeinspector/MainActivity$3;",
+    "Ltw/angus/localeinspector/MainActivity$4;",
+    "Ltw/angus/localeinspector/MainActivity;",
+    "Ltw/angus/localeinspector/R$drawable;",
+    "Ltw/angus/localeinspector/R$style;",
+    "Ltw/angus/localeinspector/R;"
+  ],
+  "button_calls_actual_isOsChinese": true,
+  "test_fixtures_absent_from_apk": true,
+  "resources_stored_uncompressed": true,
+  "runtime_device_test": false
+}

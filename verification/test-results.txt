@@ -1,0 +1,22 @@
+PASS zh-Hans-CN => true
+PASS zh-Hant-CN => false
+PASS zh-Hans-TW => true
+PASS zh-Hans-HK => true
+PASS zh-Hans-MO => true
+PASS zh-Hant-SG => false
+PASS zh-Latn-CN => false
+PASS zh-CN => true
+PASS zh-TW => false
+PASS zh-HK => false
+PASS zh-MO => false
+PASS zh-SG => true
+PASS zh-US => true
+PASS zh => true
+PASS en-CN => false
+PASS en-Hans-CN => false
+PASS und => false
+PASS Only first system locale is used => false
+PASS Empty system list falls back to default Hans => true
+PASS Empty system list falls back to default Hant => false
+PASS Resource exception returns false => false
+PASS: 21 cases; Android framework lookups use JVM fixtures (not device tests).
