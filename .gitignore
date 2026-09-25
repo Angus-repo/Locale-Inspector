@@ -1,0 +1,14 @@
+/build/
+/dist/
+/signing/
+/tools/toolchain/
+__pycache__/
+*.pyc
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+local.properties
+.DS_Store
